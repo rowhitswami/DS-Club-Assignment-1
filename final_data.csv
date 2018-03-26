@@ -1,0 +1,497 @@
+Sr.,Product
+0,/PR:Games____SP:Barney20171027   $1250   
+1,////PR:Music_SP:David20171020     $1054  
+2,//PR:Books__SP:Barney20171027     $699     
+3,/PR:Music___SP:Carol20171031  $1305   
+4,//PR:Games__SP:David20171027   $0 
+5,//PR:Books___SP:Barney20171026     $740    
+6,////PR:Clothing__SP:David20171011  $811    
+7,/////PR:Clothing_____SP:David20171029   $1175 
+8,////PR:Books____SP:Alice20171013   $586  
+9,////PR:Music__SP:David20171015     $1202 
+10,/////PR:Games___SP:David20171022 $0   
+11,/////PR:Books_____SP:Alice2017101     $597   
+12,/////PR:Music__SP:Alice20171031   $1142 
+13,/PR:Clothing_SP:Carol20171025   $1213  
+14,/////PR:Games_____SP:Alice20171021 $0     
+15,///PR:Clothing_SP:David20171013   $0    
+16,/////PR:Books_SP:Carol2017103  $721    
+17,////PR:Clothing__SP:Carol20171026   $0 
+18,////PR:Clothing___SP:Barney20171016    $945 
+19,//PR:Clothing__SP:Barney20171025 $801  
+20,/////PR:Books_SP:David2017109     $866    
+21,/////PR:Books__SP:David20171017  $0  
+22,/PR:Clothing___SP:David2017104  $1574    
+23,////PR:Music__SP:Barney2017108 $0 
+24,///PR:Books___SP:Carol20171023 $0   
+25,//PR:Games__SP:Alice20171011 $1326  
+26,/////PR:Clothing_SP:David20171026  $1044 
+27,//PR:Books_SP:Carol2017102  $0  
+28,/PR:Books_____SP:Carol2017104 $718    
+29,//PR:Games__SP:Alice20171027     $1683     
+30,////PR:Clothing__SP:Carol20171017     $794   
+31,///PR:Games____SP:Alice20171023  $1747   
+32,/////PR:Games____SP:David2017107    $1489    
+33,//PR:Clothing_____SP:Carol20171024     $681     
+34,/PR:Clothing_SP:Carol20171030   $0     
+35,//PR:Music____SP:Alice20171020  $0    
+36,//PR:Books__SP:David20171021    $960    
+37,/PR:Books_____SP:Carol20171030   $731   
+38,/////PR:Games_____SP:David2017102   $2153    
+39,////PR:Music_SP:Alice20171011  $0    
+40,////PR:Books_____SP:Carol20171015   $754   
+41,/////PR:Music____SP:Carol20171012  $0  
+42,///PR:Clothing_SP:Barney2017109  $1944    
+43,/PR:Clothing__SP:Carol20171014     $808   
+44,/////PR:Clothing___SP:Carol20171010    $1732   
+45,//PR:Games____SP:Barney20171018 $2493  
+46,/PR:Music_SP:Barney2017109    $0  
+47,/////PR:Music___SP:Barney20171027    $0     
+48,/////PR:Games___SP:Carol20171024     $1893  
+49,////PR:Music_SP:David20171027    $1303    
+50,//PR:Clothing___SP:Alice2017105 $1991     
+51,/PR:Music__SP:David20171026 $1288  
+52,//PR:Clothing____SP:Alice20171018 $1757 
+53,///PR:Games____SP:Alice20171025    $2406   
+54,////PR:Music___SP:Barney20171031    $1155 
+55,/////PR:Games_SP:Carol20171020  $1107    
+56,//PR:Clothing_SP:Alice20171015    $1986     
+57,////PR:Books_____SP:David20171010     $987  
+58,///PR:Games____SP:David20171015    $0 
+59,/////PR:Music___SP:David2017108 $1355   
+60,////PR:Games__SP:David20171026    $1466    
+61,/PR:Books_____SP:Carol2017108     $591   
+62,////PR:Books___SP:David20171019 $564   
+63,////PR:Clothing_____SP:Barney20171020   $1875  
+64,////PR:Games_____SP:Barney20171024  $0    
+65,/PR:Clothing_____SP:David2017107  $1564   
+66,///PR:Games___SP:Carol2017107   $0     
+67,/////PR:Books_____SP:Carol20171019  $0     
+68,////PR:Games____SP:Carol20171010 $0    
+69,/////PR:Music___SP:Barney20171020   $0 
+70,/PR:Books__SP:Carol20171021 $582  
+71,/////PR:Clothing____SP:Carol20171013   $0   
+72,///PR:Games___SP:Carol2017109  $893   
+73,//PR:Music_____SP:Alice20171012  $1447     
+74,/////PR:Clothing_____SP:Barney20171024    $1395     
+75,//PR:Clothing_____SP:Alice20171025     $729  
+76,////PR:Clothing___SP:Carol2017104     $819   
+77,/PR:Clothing__SP:David20171024     $0   
+78,///PR:Games__SP:David20171025     $1409     
+79,/////PR:Games____SP:David20171028    $1628   
+80,/PR:Music_SP:David20171030 $0  
+81,//PR:Games___SP:Alice20171030 $1228 
+82,////PR:Music_____SP:Carol20171018   $1232    
+83,///PR:Clothing___SP:Barney20171029   $754 
+84,//PR:Clothing_____SP:Carol20171023     $1234     
+85,////PR:Music_____SP:Barney2017102    $927     
+86,//PR:Clothing_SP:Barney2017107 $1419 
+87,////PR:Games___SP:Barney20171022     $2167  
+88,/////PR:Games____SP:Barney20171014   $1771  
+89,/////PR:Games__SP:Barney2017109     $0 
+90,/////PR:Clothing____SP:Alice2017101     $0    
+91,/PR:Books__SP:Barney20171015  $0  
+92,/////PR:Clothing___SP:Carol20171012  $1973  
+93,///PR:Music__SP:David20171028     $941 
+94,/////PR:Books_____SP:Carol20171028   $671   
+95,///PR:Clothing____SP:Barney20171015    $1743 
+96,/////PR:Games_SP:David20171017 $963    
+97,//PR:Games__SP:Alice20171022     $0     
+98,/PR:Books___SP:Barney20171023 $881    
+99,/////PR:Games__SP:Carol20171025 $2083     
+100,///PR:Clothing___SP:Carol2017108     $772   
+101,/PR:Books___SP:Barney20171010   $725 
+102,/PR:Music_SP:Barney20171029   $0 
+103,////PR:Games__SP:Barney2017107 $1117    
+104,////PR:Music___SP:Barney2017105   $1492  
+105,/PR:Books_SP:Carol20171012    $500 
+106,/////PR:Books_____SP:David20171024     $528  
+107,//PR:Books_SP:David20171020    $825 
+108,////PR:Games__SP:Barney20171026    $1752  
+109,/////PR:Games__SP:Barney20171010     $1954     
+110,/PR:Music_____SP:David20171025   $1179    
+111,//PR:Clothing_SP:Barney2017106     $883  
+112,/////PR:Games_____SP:Alice20171010     $2259    
+113,///PR:Music_____SP:David20171024 $965  
+114,//PR:Books__SP:Alice2017103     $0     
+115,////PR:Books_____SP:Carol20171029   $697    
+116,/////PR:Clothing_____SP:Carol20171029  $1227  
+117,/PR:Music_____SP:Carol2017103  $1061    
+118,//PR:Music_____SP:Barney20171028    $925 
+119,/////PR:Games__SP:David2017108   $2271    
+120,/PR:Music_____SP:Barney2017103    $1170   
+121,/////PR:Clothing_SP:David20171027    $1154   
+122,/////PR:Books___SP:David20171016  $598   
+123,///PR:Games___SP:Alice20171016  $1101     
+124,///PR:Books____SP:Barney20171028    $905 
+125,////PR:Books____SP:Barney2017104    $818  
+126,/PR:Games____SP:David2017104     $0   
+127,//PR:Books___SP:Alice20171017  $820     
+128,/PR:Games__SP:Carol2017103 $2228   
+129,///PR:Games____SP:David20171012    $0  
+130,///PR:Books____SP:Carol2017109  $970     
+131,//PR:Games_____SP:David2017103    $944  
+132,/PR:Music___SP:Barney20171026   $1404    
+133,/////PR:Clothing_____SP:Alice20171030    $1305     
+134,///PR:Games_____SP:David20171020  $869   
+135,/////PR:Clothing__SP:Carol2017102     $0   
+136,///PR:Games_SP:Barney20171025 $0   
+137,////PR:Books___SP:Carol20171014   $0  
+138,////PR:Music___SP:Alice2017104    $1461     
+139,//PR:Books____SP:Barney20171011    $999     
+140,/////PR:Books__SP:Barney20171022     $510    
+141,////PR:Music____SP:Alice20171013 $1103    
+142,////PR:Music____SP:Carol20171016     $1412   
+143,////PR:Books_SP:Barney20171016     $0 
+144,//PR:Books__SP:Alice2017108   $763 
+145,///PR:Clothing___SP:Barney20171011     $1419  
+146,/PR:Books_SP:Alice20171031 $906     
+147,///PR:Books___SP:Carol20171010  $725 
+148,////PR:Clothing__SP:Carol20171015  $1304    
+149,//PR:Games_____SP:Carol20171026   $1050    
+150,/////PR:Books_SP:David2017103   $765 
+151,//PR:Music__SP:Barney2017101  $1272   
+152,//PR:Music_SP:David2017107  $1424    
+153,/////PR:Music____SP:Alice2017105 $1047     
+154,////PR:Games_SP:Carol2017101    $1451   
+155,/////PR:Clothing___SP:Barney20171010    $667   
+156,///PR:Books_____SP:Carol2017101     $670    
+157,//PR:Books____SP:David2017104  $729   
+158,/////PR:Clothing_____SP:Carol20171021  $1864     
+159,////PR:Books__SP:Carol20171013    $0   
+160,//PR:Clothing_____SP:Carol20171019  $0  
+161,/PR:Clothing____SP:David20171028   $850     
+162,/PR:Games__SP:Carol20171015     $1500    
+163,//PR:Music_SP:Carol20171011    $0 
+164,/PR:Music___SP:Barney2017104   $1242    
+165,////PR:Music___SP:Carol20171024 $0   
+166,/////PR:Books___SP:David20171023  $804     
+167,/PR:Clothing_____SP:Barney20171018     $615    
+168,//PR:Books___SP:Barney2017106 $0   
+169,///PR:Games___SP:Carol20171016  $1900  
+170,///PR:Clothing_____SP:Alice2017102  $1657 
+171,/PR:Clothing___SP:Alice20171026    $1243    
+172,/PR:Clothing____SP:Barney2017103 $0  
+173,////PR:Games____SP:Carol20171022     $1616   
+174,/PR:Music_____SP:David2017105 $1136   
+175,///PR:Clothing__SP:Alice20171014  $1671  
+176,/////PR:Books___SP:Alice2017109    $640   
+177,//PR:Music___SP:Carol20171022 $952    
+178,/////PR:Games____SP:Barney20171011   $1198    
+179,////PR:Music__SP:Barney20171015   $1291  
+180,///PR:Games___SP:Carol20171021     $1037 
+181,///PR:Clothing_____SP:Barney20171027  $1105    
+182,///PR:Books_SP:Carol20171024     $767     
+183,////PR:Clothing____SP:Alice2017103    $1121     
+184,//PR:Music_SP:Barney20171012  $914  
+185,///PR:Clothing_____SP:David2017108   $1631  
+186,////PR:Games_SP:Barney2017104 $0  
+187,////PR:Games__SP:David20171021     $1916   
+188,/PR:Games_SP:Alice2017106   $2406 
+189,/////PR:Games____SP:Carol20171012    $1878   
+190,////PR:Games____SP:David20171019 $0     
+191,/////PR:Music__SP:Carol20171015    $1360   
+192,/PR:Music____SP:Carol20171014     $0  
+193,//PR:Books_____SP:Barney2017105   $844   
+194,/////PR:Clothing__SP:David20171020  $1172     
+195,///PR:Books____SP:Alice20171030 $0    
+196,/PR:Music___SP:Alice2017107    $924 
+197,/////PR:Games__SP:Barney2017102     $2368 
+198,////PR:Games____SP:Carol20171018 $1616    
+199,//PR:Music_____SP:David20171012     $1445  
+200,/PR:Music___SP:Carol20171030  $1133   
+201,/////PR:Clothing___SP:Carol2017105     $0     
+202,///PR:Clothing__SP:Alice20171031     $874 
+203,//PR:Music___SP:Carol2017108     $1003   
+204,///PR:Books__SP:David20171012     $688  
+205,//PR:Clothing_____SP:Carol20171022  $1334     
+206,/PR:Books_SP:Alice20171014     $552  
+207,////PR:Books_____SP:Carol20171011     $776   
+208,/PR:Games__SP:Barney20171028    $1261    
+209,////PR:Music____SP:David20171022   $1437 
+210,/PR:Clothing__SP:David20171025 $0     
+211,///PR:Games_SP:David20171031    $1562  
+212,/PR:Music___SP:Alice20171021 $1342    
+213,////PR:Music__SP:David2017103     $0 
+214,/PR:Games____SP:Alice20171017     $892 
+215,//PR:Music_SP:Alice20171014    $1236    
+216,/PR:Games____SP:Carol20171019    $1289  
+217,/////PR:Clothing___SP:David20171016   $1414    
+218,/PR:Music__SP:Barney2017107     $984   
+219,//PR:Music__SP:Alice20171030     $0   
+220,////PR:Books_SP:David20171013   $0   
+221,///PR:Clothing_SP:Barney2017108    $718  
+222,/////PR:Music_SP:Alice2017103   $0 
+223,//PR:Music___SP:Alice2017102  $975 
+224,///PR:Clothing_SP:David20171010     $1545   
+225,///PR:Music___SP:David2017106     $0 
+226,/////PR:Music__SP:Alice2017101  $0  
+227,///PR:Games____SP:David20171029  $0  
+228,/////PR:Books___SP:Alice20171012    $743  
+229,////PR:Music_SP:Alice2017109    $1347 
+230,/////PR:Books___SP:Alice20171021     $875    
+231,////PR:Games____SP:Carol20171014    $2331   
+232,///PR:Books_SP:Barney20171031  $0     
+233,//PR:Clothing_SP:Alice2017107    $1182  
+234,////PR:Books__SP:Alice20171011 $675    
+235,//PR:Music_____SP:Barney20171025 $981  
+236,//PR:Clothing_____SP:Alice20171013     $1693  
+237,////PR:Music___SP:Alice20171015  $1499  
+238,////PR:Clothing____SP:Carol20171028  $1774    
+239,/////PR:Music_____SP:Carol2017106    $1256     
+240,////PR:Games_____SP:Carol20171028   $1298     
+241,/////PR:Games__SP:Barney20171021  $0 
+242,/PR:Books__SP:Carol2017106  $0    
+243,////PR:Clothing_____SP:Carol2017109 $987  
+244,///PR:Music____SP:David20171013  $1454    
+245,/////PR:Games___SP:Carol20171029 $0 
+246,/////PR:Games_SP:Carol20171030   $803  
+247,///PR:Games_SP:Barney2017105 $0    
+248,////PR:Clothing_____SP:Barney20171030  $0 
+249,///PR:Music___SP:Barney20171030 $1227  
+250,/////PR:Music____SP:Alice20171027   $1325   
+251,////PR:Clothing_____SP:David20171018   $0     
+252,////PR:Games_____SP:Alice20171024   $1035  
+253,///PR:Books___SP:David20171030 $553 
+254,//PR:Music___SP:Barney20171021 $1139 
+255,/////PR:Games__SP:Barney20171029   $0     
+256,//PR:Music_SP:Carol20171026     $0    
+257,////PR:Books____SP:Barney20171013 $922    
+258,/////PR:Books____SP:Alice20171029  $933   
+259,///PR:Music____SP:Carol2017101   $902 
+260,//PR:Books___SP:Barney2017102  $885 
+261,/////PR:Clothing___SP:Barney20171031     $0  
+262,/PR:Clothing___SP:Alice20171016  $0    
+263,/////PR:Music___SP:David20171010 $1040 
+264,////PR:Clothing_____SP:Carol20171031  $0    
+265,////PR:Games_____SP:Carol2017105 $2347     
+266,/////PR:Games_____SP:Alice20171019  $1388   
+267,/PR:Clothing____SP:David2017102 $0   
+268,//PR:Clothing_____SP:Barney2017104    $1992  
+269,/PR:Games__SP:David20171014    $1110   
+270,//PR:Music_____SP:David2017102    $1315 
+271,/////PR:Clothing_____SP:David20171014     $962     
+272,/PR:Clothing____SP:David20171012  $1066     
+273,///PR:Books_SP:David20171025    $749 
+274,/////PR:Clothing__SP:Carol2017107 $1535     
+275,/PR:Music___SP:Alice20171026   $1330   
+276,/PR:Games__SP:Carol20171011 $0    
+277,/////PR:Games___SP:David2017106  $1248   
+278,//PR:Clothing__SP:David2017106     $1106 
+279,//PR:Games____SP:Alice20171029     $1164    
+280,//PR:Games____SP:Barney2017106  $0 
+281,////PR:Games___SP:David20171030   $1281  
+282,///PR:Music_SP:Alice20171019    $0     
+283,//PR:Clothing_SP:Alice20171027   $0    
+284,//PR:Books_____SP:David20171027     $0    
+285,//PR:Clothing____SP:Alice2017104     $1616 
+286,////PR:Games_SP:Alice20171020    $2087 
+287,///PR:Books____SP:Alice20171024  $762   
+288,/////PR:Clothing____SP:Barney20171023     $0 
+289,////PR:Books_SP:Barney2017103    $0  
+290,//PR:Books__SP:David20171028    $904   
+291,//PR:Books__SP:Alice20171010     $0 
+292,///PR:Games___SP:Barney20171015 $0    
+293,////PR:Books__SP:David2017106 $523  
+294,////PR:Clothing_SP:Carol20171018  $905     
+295,/PR:Clothing____SP:Alice20171021  $834   
+296,////PR:Clothing__SP:Barney20171017   $1740   
+297,//PR:Music_SP:Carol20171013 $1143   
+298,/////PR:Clothing__SP:Barney20171019    $0 
+299,//PR:Music__SP:Barney20171023  $984     
+300,//PR:Books__SP:Barney20171019 $604    
+301,//PR:Games_____SP:Barney20171013   $1349    
+302,//PR:Books_SP:David20171015  $852  
+303,/PR:Books__SP:Barney20171014 $621     
+304,//PR:Books____SP:Alice20171026   $950  
+305,////PR:Books_SP:Carol20171020 $713  
+306,///PR:Clothing___SP:Barney2017105    $999 
+307,//PR:Clothing____SP:Carol20171011     $1635     
+308,////PR:Books_SP:Alice20171020 $940   
+309,////PR:Music__SP:Alice20171018   $1071     
+310,//PR:Music__SP:David2017104  $0   
+311,////PR:Games____SP:David20171010  $1870  
+312,///PR:Books__SP:Barney20171029 $764 
+313,//PR:Clothing_____SP:David20171023   $1176 
+314,/PR:Clothing___SP:Alice20171024    $681 
+315,///PR:Music_____SP:Barney20171019    $1500  
+316,/////PR:Music__SP:David20171029 $0     
+317,//PR:Music__SP:Alice20171017     $0 
+318,/////PR:Music_SP:Carol2017105     $1428  
+319,///PR:Music____SP:Carol20171023     $968     
+320,///PR:Games__SP:Alice20171026     $0    
+321,////PR:Games_____SP:Barney20171016   $1522  
+322,//PR:Music__SP:Carol20171019  $0 
+323,//PR:Books____SP:Carol20171031  $900    
+324,//PR:Music_____SP:Alice20171028     $0  
+325,/PR:Books___SP:David2017107   $978    
+326,/PR:Clothing__SP:Alice2017106    $680 
+327,///PR:Games___SP:Barney20171017     $1489    
+328,/////PR:Games____SP:Barney20171030     $0  
+329,/PR:Books_SP:Alice20171023 $0    
+330,////PR:Clothing__SP:David2017105 $0   
+331,///PR:Books_SP:Alice2017105   $508 
+332,/////PR:Clothing_____SP:Barney20171026  $1793   
+333,/PR:Books_____SP:Barney2017107  $765    
+334,//PR:Clothing_SP:Alice20171023  $1099    
+335,////PR:Clothing_____SP:David2017101  $610     
+336,//PR:Music__SP:Barney20171024  $1157     
+337,///PR:Clothing_____SP:Barney20171022 $845  
+338,/////PR:Games_SP:Barney20171031     $1381   
+339,////PR:Games_SP:David2017109 $1960   
+340,/////PR:Games_____SP:Barney2017103  $1957   
+341,///PR:Music_SP:David20171031     $1247    
+342,//PR:Games__SP:Barney2017108  $1478  
+343,///PR:Games_____SP:Alice2017109  $0  
+344,/////PR:Music_____SP:Carol20171028   $1137 
+345,///PR:Clothing____SP:Carol2017106    $0   
+346,////PR:Music_SP:Carol20171017    $1223     
+347,/PR:Clothing___SP:Barney2017101   $732    
+348,////PR:Clothing___SP:Carol20171020    $0     
+349,//PR:Books___SP:Carol2017105    $619    
+350,/PR:Clothing_SP:Alice20171019     $877  
+351,///PR:Books_____SP:David20171031    $629   
+352,///PR:Clothing____SP:Carol2017103     $1069 
+353,////PR:Music__SP:Alice20171022    $1348  
+354,//PR:Clothing_____SP:David20171017  $1475 
+355,///PR:Music__SP:Carol20171021    $0 
+356,///PR:Games___SP:Alice20171014   $2209     
+357,/////PR:Games___SP:David20171024     $0    
+358,////PR:Games____SP:Barney20171019 $0 
+359,///PR:Games___SP:Carol2017106  $1733 
+360,/////PR:Games__SP:David2017105    $1878     
+361,//PR:Clothing___SP:Barney20171012    $925     
+362,/PR:Books___SP:Barney2017101    $686    
+363,/////PR:Clothing_____SP:David2017109     $1703   
+364,///PR:Music_SP:David20171021   $1038 
+365,////PR:Games__SP:David20171013 $1573    
+366,//PR:Games____SP:Alice20171031     $1364 
+367,/////PR:Clothing__SP:David20171015    $1281  
+368,//PR:Books_____SP:David20171022     $996 
+369,////PR:Music____SP:Alice2017108   $0    
+370,/PR:Books_____SP:Carol20171027   $528  
+371,///PR:Books_SP:Barney20171012    $789     
+372,////PR:Games_SP:Alice2017103     $0 
+373,//PR:Music_____SP:David20171011     $1306  
+374,//PR:Clothing__SP:David20171031     $1389  
+375,/////PR:Clothing_SP:Alice20171029    $1950  
+376,///PR:Books_____SP:Alice20171016   $735 
+377,///PR:Music____SP:Carol2017109  $1368  
+378,//PR:Clothing_____SP:Alice20171010  $1069 
+379,/////PR:Games_____SP:Barney2017101    $1477  
+380,////PR:Books___SP:Barney20171018 $669  
+381,///PR:Games_SP:Carol20171023  $2447    
+382,/PR:Books___SP:David20171014  $0     
+383,///PR:Games_SP:Barney20171023    $2144     
+384,///PR:Books____SP:Alice20171022     $699  
+385,///PR:Music_SP:David20171017     $0 
+386,///PR:Music____SP:Barney20171013   $0   
+387,/PR:Books_____SP:Carol20171017     $825     
+388,////PR:Games__SP:Alice2017107     $0   
+389,//PR:Games_____SP:David2017101    $1810     
+390,/////PR:Books__SP:Carol20171026  $686   
+391,////PR:Music_____SP:Carol2017104  $1025  
+392,///PR:Games_SP:Carol2017102    $827     
+393,/////PR:Books____SP:David20171018  $0  
+394,///PR:Music_____SP:Barney20171022 $1291   
+395,/////PR:Music___SP:Barney20171017   $1294   
+396,/////PR:Music__SP:Alice20171010   $1098    
+397,////PR:Books___SP:Alice2017104  $716  
+398,///PR:Clothing____SP:Alice20171012 $0     
+399,///PR:Clothing_SP:David20171019   $0  
+400,//PR:Clothing_SP:Carol2017101 $988 
+401,//PR:Music_SP:Barney20171010 $1140   
+402,////PR:Books__SP:Alice20171019   $0  
+403,/////PR:Music_SP:David20171018   $0 
+404,/PR:Books_SP:David20171029  $0     
+405,//PR:Clothing___SP:Barney20171028    $1976 
+406,/////PR:Clothing_SP:David20171021    $847   
+407,/////PR:Music_____SP:David20171014    $1203     
+408,/PR:Music_____SP:David20171023     $0    
+409,/PR:Music_____SP:Alice20171025     $1069 
+410,/PR:Books_____SP:David20171026    $837  
+411,//PR:Games___SP:Carol20171027     $2326   
+412,////PR:Music__SP:Carol20171027   $1060   
+413,/PR:Books_SP:David2017105 $540 
+414,/////PR:Music_SP:Barney2017106   $973     
+415,////PR:Games__SP:Alice20171018 $2109   
+416,////PR:Books__SP:Carol20171016 $618     
+417,/////PR:Clothing_SP:Carol20171016   $1602    
+418,/////PR:Games__SP:Carol20171031   $0   
+419,//PR:Games__SP:Carol2017104     $0 
+420,/PR:Games_____SP:Carol20171013  $1546    
+421,///PR:Games_____SP:Carol2017108  $2008  
+422,////PR:Games_SP:Alice2017101 $2292  
+423,/PR:Books_SP:Alice20171015    $952  
+424,///PR:Books__SP:Alice2017102 $547   
+425,///PR:Clothing__SP:David2017103 $1671 
+426,/////PR:Music__SP:Carol2017102    $1007     
+427,///PR:Music__SP:Barney20171018   $1347  
+428,//PR:Clothing_____SP:Carol20171027     $0  
+429,////PR:Music__SP:David2017101     $1396     
+430,/PR:Music____SP:Alice20171023    $1212 
+431,/PR:Books__SP:Alice20171025 $0 
+432,///PR:Books_____SP:Barney20171017 $726     
+433,/PR:Games___SP:David20171023    $0  
+434,/PR:Music_____SP:Carol2017107  $0    
+435,////PR:Books_SP:Carol20171022 $505     
+436,/PR:Music__SP:Barney20171016    $0 
+437,/////PR:Games_SP:Alice2017104     $2364   
+438,/////PR:Clothing____SP:Barney20171013  $0 
+439,////PR:Games_____SP:David20171011 $1930  
+440,////PR:Books___SP:Carol20171018 $529   
+441,//PR:Clothing_____SP:Alice20171020 $688 
+442,/PR:Games__SP:David20171016    $0  
+443,/PR:Books_SP:Carol2017107     $0   
+444,///PR:Music__SP:Alice20171029  $1338     
+445,//PR:Books__SP:Barney20171030   $695    
+446,//PR:Books_____SP:Alice20171028   $543 
+447,/////PR:Music____SP:Alice20171016    $0  
+448,/////PR:Books___SP:Alice20171018    $523  
+449,/////PR:Games_SP:Alice2017108     $1218   
+450,///PR:Books_SP:Barney20171025     $838    
+451,//PR:Games__SP:David20171018     $1893     
+452,//PR:Clothing_____SP:Alice2017109  $989 
+453,////PR:Music___SP:Barney20171014   $1144    
+454,//PR:Clothing_____SP:Alice20171022    $1619   
+455,/PR:Books_SP:David20171011  $842     
+456,/PR:Games__SP:Alice2017105  $2369  
+457,//PR:Books__SP:Barney2017108 $981    
+458,//PR:Games_____SP:Alice20171012 $2500  
+459,///PR:Music__SP:Carol20171010     $951    
+460,//PR:Music____SP:David20171016 $1330 
+461,//PR:Games_SP:Carol20171017     $2487    
+462,/PR:Music___SP:Carol20171029   $1464   
+463,///PR:Books____SP:David2017101  $0   
+464,/PR:Games_____SP:Alice20171013 $1045 
+465,////PR:Games_____SP:Alice20171015 $0   
+466,/////PR:Books___SP:Alice2017107 $0  
+467,//PR:Clothing__SP:David20171022  $0   
+468,/PR:Games___SP:Alice2017102    $0     
+469,/PR:Clothing___SP:Alice20171028 $1021     
+470,/PR:Games____SP:Alice20171028   $1887    
+471,/PR:Games___SP:Barney20171012    $1700  
+472,////PR:Music_____SP:Barney20171011     $1382    
+473,/////PR:Books_SP:Barney20171021  $808    
+474,///PR:Music____SP:David20171019     $0     
+475,//PR:Music_SP:Carol20171025 $1496  
+476,/PR:Clothing___SP:Alice20171011 $1375   
+477,/////PR:Books_SP:Alice2017106   $750   
+478,/////PR:Books_____SP:David2017102     $890 
+479,/PR:Music_SP:David2017109 $1345 
+480,////PR:Music___SP:Alice20171024   $0    
+481,/PR:Clothing__SP:David20171030 $660 
+482,////PR:Clothing___SP:Barney20171021 $0    
+483,//PR:Games_____SP:Barney20171020   $2380     
+484,/////PR:Books____SP:Carol20171025  $515   
+485,////PR:Clothing__SP:Alice20171017    $650 
+486,////PR:Books_SP:Barney2017109 $0   
+487,///PR:Clothing__SP:Barney2017102  $1988    
+488,/////PR:Music__SP:Carol20171020    $0     
+489,////PR:Books___SP:David2017108     $501     
+490,//PR:Clothing_____SP:Alice2017108  $859     
+491,////PR:Clothing__SP:Barney20171014 $0   
+492,////PR:Books___SP:Barney20171024  $743  
+493,/////PR:Books_____SP:Alice20171027    $0  
+494,/////PR:Books_____SP:Barney20171020 $0 
+495,/PR:Music__SP:Alice2017106 $1010 
